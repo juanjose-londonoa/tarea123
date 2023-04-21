@@ -1,0 +1,58 @@
+#s1 {
+  color:rgb(3, 84, 116);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  text-shadow: 3px 3px rgb(115, 192, 223);
+}
+#p1 {
+  color: rgb(37, 33, 61);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(139, 129, 37);
+  text-shadow: 4px 4px rgb(53, 43, 53);
+}
+#p2 {
+  color: rgb(13, 82, 47);
+  font-size: 50px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#p3 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  background-color: black;
+}
+
+#p4 {
+  color: rgb(116, 17, 17);
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(223, 170, 170);
+}
+
+#p5 {
+  color:rgb(21, 21, 68);
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color:cornsilk;
+}
+
+#p6 {
+  color: rgb(1, 117, 6);
+  font-size: 50px;
+  text-transform :uppercase
+  text-align: center;
+  background-color: cornsilk;
+}
+
+#p7 {
+  color: rgb(14, 9, 12);
+  font-size: 50px;
+  text-align: center;
+  background-color:whitesmoke;
+  
+}
